@@ -5,6 +5,7 @@ const passport = require('passport');
 const flash = require('connect-flash');
 const session = require('express-session');
 
+// hi everyone
 const app = express();
 
 // Passport Config
